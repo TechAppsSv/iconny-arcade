@@ -1,8 +1,8 @@
 {
 	"name": "iconny-arcade",
 	"productName": " Iconny Arcade",
-	"version": "2.3.4",
-	"description": "The browser for players open source",
+	"version": "2.4.4",
+	"description": "The browser open source for gamers",
 	"main": "src/munich/init/init.js",
 	"scripts": {
 		"pack": "build --dir",
@@ -36,8 +36,7 @@
 		"linux": {
 			"category": "Browser",
 			"target": [
-				"AppImage",
-				"snap"
+				"AppImage"
 			],
 			"icon": "build/background.png"
 		},
