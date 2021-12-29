@@ -6,7 +6,7 @@
 ### https://techappssv.github.io/iconnybrowser/html/arcade.html
 ## Latest Version Stable
 ### https://github.com/TechAppsSv/iconny-arcade/releases
-## Other editions
+##  Principal Edition
 ### Iconny Standart
 #### https://github.com/TechAppsSv/iconny
 #
