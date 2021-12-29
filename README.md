@@ -6,7 +6,9 @@
 ### https://techappssv.github.io/iconnybrowser/html/arcade.html
 ## Latest Version Stable
 ### https://github.com/TechAppsSv/iconny-arcade/releases
-
+## Other editions
+### Iconny Standart
+#### https://github.com/TechAppsSv/iconny
 #
 ## Snap Version
 [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/iconny-arcade)
